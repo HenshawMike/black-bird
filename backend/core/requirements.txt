@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pydantic
+chromadb
+watchdog
+python-dotenv
+ollama
